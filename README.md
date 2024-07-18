@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on MACH
-- 🌱 I’m currently learning how to play Piano and doing the AWS Developer certification.
-- 👯 I’m looking to collaborate on software development
+- 🌱 Learning how to play Piano and doing the AWS Developer certification.
+- 👯 Looking to collaborate on software development
 - ⚡ Fun fact: Watched one piece two times
 - About myself: proactive, curious, resilient, love to learn new things.
   
