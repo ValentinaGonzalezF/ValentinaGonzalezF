@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on BUK
+- 🔭 I’m currently working at BUK
 - 🌱 Learning how to play Piano.
 - 🧑‍🎓 [AWS Developer Associate Certified](https://www.credly.com/badges/c895f57a-afc9-4b93-8e87-b6cdb862b2b2) 
 - 💭 About myself: proactive, curious, resilient, love to learn new things.
