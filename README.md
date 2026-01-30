@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🧑‍🎓 [AWS Developer Associate Certified](https://www.credly.com/badges/c895f57a-afc9-4b93-8e87-b6cdb862b2b2) 
-- 💭 About myself: proactive, curious, resilient, love to learn new things.
+- 💭 About myself: proactive, curious, resilient.
 - 💻 I have worked at: Tubesoft and MACH, located in Chile.
 - 👯 Looking to collaborate on software development
   
